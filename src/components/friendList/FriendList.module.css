@@ -1,0 +1,30 @@
+.friendslist {
+margin-bottom: 20px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+  
+    box-shadow: 0px 1px 3px rgba(0,0,0,.12), 0px 1px 1px rgba(0,0,0,.14), 0px 2px 1px rgba(0,0,0,.2);
+    border-radius: 0px 0px 4px 4px;
+    gap: 30px;
+    margin-bottom: 20px;
+    width: 400px;
+
+}
+
+.status {
+margin-left: 40px;
+}
+
+.avatar {
+    box-shadow: 0px 1px 3px rgba(0,0,0,.12), 0px 1px 1px rgba(0,0,0,.14), 0px 2px 1px rgba(0,0,0,.2);
+    border-radius: 0px 0px 4px 4px;
+width: 90px;
+height: 90px;
+}
+
+.name {
+margin-left: 40px;
+}
